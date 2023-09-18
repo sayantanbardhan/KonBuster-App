@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "787053705551",
+    "project_id": "konbusters",
+    "storage_bucket": "konbusters.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:787053705551:android:d72889190dbae7afb0ad3a",
+        "android_client_info": {
+          "package_name": "com.example.sih"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuEey460v-8mMK3R3dhW3y0wUTTXV_750"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
